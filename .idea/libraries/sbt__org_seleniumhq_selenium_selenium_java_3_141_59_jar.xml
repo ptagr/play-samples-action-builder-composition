@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: org.seleniumhq.selenium:selenium-java:3.141.59:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/artifacts.apple.com/libs-release/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

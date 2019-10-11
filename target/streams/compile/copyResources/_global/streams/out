@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/punit/Downloads/play-samples-play-scala-hello-world-tutorial/conf/logback.xml,/Users/punit/Downloads/play-samples-play-scala-hello-world-tutorial/target/scala-2.13/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/punit/Downloads/play-samples-play-scala-hello-world-tutorial/conf/messages,/Users/punit/Downloads/play-samples-play-scala-hello-world-tutorial/target/scala-2.13/classes/messages)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/punit/Downloads/play-samples-play-scala-hello-world-tutorial/conf/application.conf,/Users/punit/Downloads/play-samples-play-scala-hello-world-tutorial/target/scala-2.13/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/punit/Downloads/play-samples-play-scala-hello-world-tutorial/conf/routes,/Users/punit/Downloads/play-samples-play-scala-hello-world-tutorial/target/scala-2.13/classes/routes)[0m

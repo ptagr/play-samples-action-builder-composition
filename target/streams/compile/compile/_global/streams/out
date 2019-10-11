@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/punit/Downloads/play-samples-play-scala-hello-world-tutorial/app/actions/AdminAuthorizedActionBuilder.scala:15:16: method debug in object Logger is deprecated (since 2.7.0): Create an instance of via Logger(...) and use the same-named method. Or use SLF4J directly.[0m
+[0m[[0m[33mwarn[0m] [0m[0m        Logger.debug(s"Just authorized the following request: $request")[0m
+[0m[[0m[33mwarn[0m] [0m[0m               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
